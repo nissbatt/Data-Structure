@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=name\ id\ email\ phoneNum
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCustomerName()
+comment3.params=
+comment3.target=java.lang.String\ getCustomerID()
+comment4.params=
+comment4.target=java.lang.String\ getCustomerEmail()
+comment5.params=
+comment5.target=java.lang.String\ getCustomerPhoneNum()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

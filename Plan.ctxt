@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Plan
+comment1.params=c\ type\ pPo\ bCost\ preCost\ postCost\ pType
+comment1.target=Plan(Customer,\ java.lang.String,\ int,\ double,\ double,\ double,\ int)
+comment2.params=
+comment2.target=Customer\ getCustomer()
+comment3.params=
+comment3.target=java.lang.String\ getPlanType()
+comment4.params=
+comment4.target=int\ getPostPeriod()
+comment5.params=
+comment5.target=double\ getBillCost()
+comment6.params=
+comment6.target=double\ getPreCost()
+comment7.params=
+comment7.target=double\ getPostCost()
+comment8.params=
+comment8.target=int\ getPaymentType()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
